@@ -4,7 +4,7 @@
   "subtitle": "A simple way to get a bunch of nice tweaks in one place",
   "description": "A lot of simple tweaks, exploits, and mods.",
   "iconURL": "https://raw.githubusercontent.com/toasty-dev/zakrepo/main/IMG_0434.png",
-  "website": "",
+  "website": "https://raw.githubusercontent.com/toasty-dev/zakrepo/main/zaklib.json",
   "apps": [
     {
       "name": "Misaka",
