@@ -7,3 +7,43 @@
   "website": "",
   "apps": [
     {
+      "name": "Misaka",
+      "bundleIdentifier": "com.kfd.ios.misaka",
+      "version": "1",
+      "downloadURL": "https://cdn.discordapp.com/attachments/1193495274065231923/1213862704822100038/misaka-v8.2.4.ipa?ex=65f704bd&is=65e48fbd&hm=95eef8d864a081e3cf8cea7e40855c861fc5a38c6ae188eb36e2b8b101e50e67&",
+      "developerName": "Misaka",
+      "localizedDescription": "KFD exploits",
+      "enableBackup": true,
+      "iconURL": "https://tweakhome.app/wp-content/uploads/2023/12/misaka.png"
+    },
+    {
+      "name": "Snapchat KamoHacks",
+      "bundleIdentifier": "com.ez.ios.snap",
+      "version": "1",
+      "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/0c37awb94x11fohhx98zb/Snapchat_-_KamoHacks12.73.0.39.ipa?rlkey=a2y17pa7ju1re21pfq3bz18f3",
+      "developerName": "SnapChat",
+      "localizedDescription": "Snapchat modded",
+      "enableBackup": true,
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/535/non_2x/snapchat-logo-snapchat-logo-transparent-snapchat-icon-transparent-free-free-png.png"
+    },
+    {
+      "name": "Esign",
+      "bundleIdentifier": "com.ez.ios.esign",
+      "version": "1",
+      "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/y0padd3qr6jfy1qavzflu/esign_4.8.1.ipa?rlkey=26k4xm70ulhbr3j20kifejvdt",
+      "developerName": "Esign",
+      "localizedDescription": "App for signing ipas",
+      "enableBackup": true,
+      "iconURL": "https://iosninja.io/img/ipas/esign-ipa-app-icon.jpeg"
+    },
+    {
+      "name": "Codex",
+      "bundleIdentifier": "com.ez.ios.codex",
+      "version": "1",
+      "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/nfnukbe92bk87za1krq0m/Codex_2.612.532_1709161550.ipa?rlkey=xbz9wgo3bow8wg6uax13c0crj",
+      "developerName": "Codex",
+      "localizedDescription": "Roblox exploit",
+      "enableBackup": true,
+      "iconURL": "https://static.wikia.nocookie.net/logopedia/images/f/fd/Roblox_app_icon_2019.svg/revision/latest?cb=20220319140508"
+    }
+}
